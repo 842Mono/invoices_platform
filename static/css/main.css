@@ -1,7 +1,8 @@
 body, html {
     margin: 0;
     font-family: sans-serif;
-    background-color: lightblue;
+    background-color: grey;
+    padding-bottom: 25px;
 }
 
 .content {
